@@ -1,0 +1,20 @@
+﻿GUIElectronicStore
+
+
+winexe
+C#
+.cs
+C:\Users\Amelia\Desktop\Programowanie Obiektowe\AmeliaMadej\CSharp-projects\GUIElectronicStore\obj\Debug\net8.0-windows\
+GUIElectronicStore
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\Amelia\Desktop\Programowanie Obiektowe\AmeliaMadej\CSharp-projects\GUIElectronicStore\App.xaml
+6421047168
+91148302985
+9-228509861
+199-1211667046
+AdminWindow.xaml;InventoryWindow.xaml;MainWindow.xaml;ProductInfoWindow.xaml;ProductsInStock.xaml;TakeOrderWindow.xaml;
+
+True
+
