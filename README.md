@@ -1,2 +1,2 @@
-# CSharp-projects
-Repozytorium zawiera projekty zrealizowane w języku C#
+# CSharp-project
+Repozytorium zawiera projekt zrealizowany w języku C#
